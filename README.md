@@ -20,6 +20,19 @@ Este proyecto presenta un análisis detallado de los salarios promedio y el crec
 
 ---
 
+## 📌 Problema que Aborda
+
+La falta de un análisis visual y accesible sobre cómo los salarios promedio y el crecimiento económico han variado entre las diferentes regiones de Puerto Rico dificulta la toma de decisiones informadas. Esta información no siempre está fácilmente disponible de forma clara para ciudadanos, empresarios o responsables de políticas públicas.
+
+---
+
+## ¿Qué Resuelve este Proyecto?
+
+- Ofrece un mejor entendimiento de cómo el crecimiento económico ha afectado de forma desigual a las distintas regiones del país.
+- Permite identificar **regiones con mayor crecimiento salarial** y aquellas que podrían estar **rezagadas económicamente**, facilitando la creación de políticas de desarrollo económico.
+- Brinda una herramienta visual e interactiva que ayuda a **empresas a identificar regiones con potencial de inversión o expansión**.
+- Ayuda a la ciudadanía a comprender mejor las oportunidades laborales y económicas en distintas áreas.
+
 ## Descripción del Análisis
 
 - Eliminación de columnas irrelevantes.
