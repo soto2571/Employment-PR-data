@@ -64,7 +64,25 @@ Consulta el proceso completo de limpieza de datos:
 
 ---
 
-## Conclusión
+## Impacto y Aplicaciones del Análisis
+
+Aunque este proyecto surgió como un ejercicio práctico de aprendizaje en análisis de datos y visualización, la información generada tiene aplicaciones valiosas en la vida real:
+
+- **Agencias de Gobierno**:  
+  Pueden utilizar esta visualización para identificar cómo el crecimiento económico ha impactado de forma desigual a las distintas regiones de la isla. Esta información puede apoyar la toma de decisiones en la distribución de recursos y la focalización de ayudas a zonas con menor crecimiento económico.
+
+- **Inversionistas y Empresarios**:  
+  Permite analizar de forma clara en qué regiones existe mayor dinamismo económico, ayudando a planificar decisiones de expansión o inversión según las áreas con mayor potencial de crecimiento.
+
+- **Ciudadanía en General**:  
+  Facilita la comprensión de cómo la economía ha evolucionado a lo largo del tiempo en su entorno, permitiendo identificar oportunidades laborales y cambios económicos en su región.
+
+- **Analistas y Profesionales de Datos**:  
+  Ofrece un conjunto de datos limpio, cuidadosamente procesado desde una fuente verídica, que puede ser utilizado como base para estudios adicionales o proyectos de análisis más avanzados.
+
+---
+
+Este análisis transforma datos complejos en información clara y visualmente comprensible, facilitando la toma de decisiones informadas a diferentes niveles: gubernamental, empresarial y social.
 
 Este proyecto demuestra cómo realizar un análisis de datos completo, desde la adquisición y limpieza hasta la visualización de resultados. Es ideal para quienes desean comprender mejor la situación salarial por región en Puerto Rico y practicar habilidades en **Python (pandas)**, **Jupyter Notebooks** y **Tableau**.
 
